@@ -1,0 +1,1032 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2019-05-19T13:44:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30666895",
+        "amenity": "cinema",
+        "building": "yes",
+        "name": "Cinesa Méndez Álvaro"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.6764531,
+              40.3970884
+            ],
+            [
+              -3.6754919,
+              40.396486
+            ],
+            [
+              -3.6754196,
+              40.3965405
+            ],
+            [
+              -3.6753878,
+              40.3965645
+            ],
+            [
+              -3.6752645,
+              40.3964874
+            ],
+            [
+              -3.6752016,
+              40.3966913
+            ],
+            [
+              -3.676248,
+              40.3973505
+            ],
+            [
+              -3.6762716,
+              40.3973318
+            ],
+            [
+              -3.6764161,
+              40.3974432
+            ],
+            [
+              -3.6766142,
+              40.3972936
+            ],
+            [
+              -3.6765852,
+              40.3972698
+            ],
+            [
+              -3.6766173,
+              40.3972451
+            ],
+            [
+              -3.6764631,
+              40.3971245
+            ],
+            [
+              -3.6764531,
+              40.3970884
+            ]
+          ]
+        ]
+      },
+      "id": "way/30666895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/86627940",
+        "addr:city": "Madrid",
+        "addr:housenumber": "3",
+        "addr:street": "Calle de Santa Isabel",
+        "amenity": "cinema",
+        "building": "yes",
+        "name": "Cine Doré / Filmoteca Española",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "source": "PNOA",
+        "wheelchair": "limited",
+        "wheelchair:description": "Escalón de a la entrada de 10 centímetros. Accesible una de sus dos salas. No disponen de aseos adaptados.",
+        "wikidata": "Q5449162",
+        "wikipedia": "es:Filmoteca Española"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.6992269,
+              40.4120797
+            ],
+            [
+              -3.6993496,
+              40.4119999
+            ],
+            [
+              -3.6993637,
+              40.4120144
+            ],
+            [
+              -3.699363,
+              40.4120091
+            ],
+            [
+              -3.6994328,
+              40.411995
+            ],
+            [
+              -3.6994152,
+              40.41198
+            ],
+            [
+              -3.6990754,
+              40.4116747
+            ],
+            [
+              -3.6989883,
+              40.4115956
+            ],
+            [
+              -3.6988615,
+              40.4117324
+            ],
+            [
+              -3.6989293,
+              40.411763
+            ],
+            [
+              -3.6989457,
+              40.4117528
+            ],
+            [
+              -3.6990236,
+              40.411824
+            ],
+            [
+              -3.6989755,
+              40.411853
+            ],
+            [
+              -3.6992269,
+              40.4120797
+            ]
+          ]
+        ]
+      },
+      "id": "way/86627940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/133979693",
+        "amenity": "cinema",
+        "building": "yes",
+        "name": "Cine Bogart/Teatro Cedaceros",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.6982679,
+              40.4173351
+            ],
+            [
+              -3.6983724,
+              40.4173317
+            ],
+            [
+              -3.6983618,
+              40.4172538
+            ],
+            [
+              -3.69826,
+              40.4172609
+            ],
+            [
+              -3.6982679,
+              40.4173351
+            ]
+          ]
+        ]
+      },
+      "id": "way/133979693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/248905967",
+        "addr:city": "Madrid",
+        "addr:housenumber": "136",
+        "addr:street": "Calle de Fuencarral",
+        "amenity": "cinema",
+        "building": "yes",
+        "name": "Cinesa Proyecciones",
+        "operator": "CINESA",
+        "phone": "902 333 231",
+        "website": "https://www.cinesa.es/Cines/Proyecciones",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.7032908,
+              40.4315573
+            ],
+            [
+              -3.7032181,
+              40.4313929
+            ],
+            [
+              -3.7029806,
+              40.4314528
+            ],
+            [
+              -3.7028709,
+              40.4314805
+            ],
+            [
+              -3.7025879,
+              40.4315525
+            ],
+            [
+              -3.7026597,
+              40.4317191
+            ],
+            [
+              -3.7032908,
+              40.4315573
+            ]
+          ]
+        ]
+      },
+      "id": "way/248905967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/256390684",
+        "addr:city": "Madrid",
+        "addr:country": "ES",
+        "addr:housenumber": "4",
+        "addr:postcode": "28014",
+        "addr:street": "Calle de Los Madrazo",
+        "amenity": "cinema",
+        "building": "yes",
+        "name": "Cine Bogart/Teatro Cedaceros"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.6982679,
+              40.4173351
+            ],
+            [
+              -3.69826,
+              40.4172609
+            ],
+            [
+              -3.6981958,
+              40.4172654
+            ],
+            [
+              -3.6981353,
+              40.4172696
+            ],
+            [
+              -3.6981107,
+              40.4172713
+            ],
+            [
+              -3.6981139,
+              40.4173083
+            ],
+            [
+              -3.6981195,
+              40.4173715
+            ],
+            [
+              -3.6981288,
+              40.4174781
+            ],
+            [
+              -3.6982824,
+              40.4174637
+            ],
+            [
+              -3.6982752,
+              40.4173971
+            ],
+            [
+              -3.6982704,
+              40.4173576
+            ],
+            [
+              -3.6982679,
+              40.4173351
+            ]
+          ]
+        ]
+      },
+      "id": "way/256390684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262485837",
+        "addr:city": "Madrid",
+        "addr:country": "ES",
+        "addr:housenumber": "42",
+        "addr:postcode": "28009",
+        "addr:street": "Calle de Narváez",
+        "amenity": "cinema",
+        "building": "public",
+        "name": "Renoir Retiro",
+        "old_name": "Cine Narváez"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.6762801,
+              40.4200817
+            ],
+            [
+              -3.6762743,
+              40.4201556
+            ],
+            [
+              -3.6763831,
+              40.4201588
+            ],
+            [
+              -3.6765446,
+              40.4201662
+            ],
+            [
+              -3.6765885,
+              40.420168
+            ],
+            [
+              -3.6765914,
+              40.4201298
+            ],
+            [
+              -3.6765928,
+              40.4201121
+            ],
+            [
+              -3.6765973,
+              40.4200534
+            ],
+            [
+              -3.6765985,
+              40.4200323
+            ],
+            [
+              -3.6764943,
+              40.420028
+            ],
+            [
+              -3.6763757,
+              40.4200225
+            ],
+            [
+              -3.6762861,
+              40.4200188
+            ],
+            [
+              -3.6762801,
+              40.4200817
+            ]
+          ]
+        ]
+      },
+      "id": "way/262485837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/268051340",
+        "addr:city": "Madrid",
+        "addr:country": "ES",
+        "addr:housenumber": "6",
+        "addr:postcode": "28012",
+        "addr:street": "Calle de Doctor Cortezo",
+        "amenity": "cinema",
+        "building": "yes",
+        "contact:website": "http://www.yelmocines.es",
+        "name": "Yelmo Cines Ideal",
+        "old_name": "Cines Ideal",
+        "operator": "Multicines",
+        "website": "http://www.yelmocines.es",
+        "wikidata": "Q5769490"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.7039141,
+              40.4138564
+            ],
+            [
+              -3.7039474,
+              40.4137769
+            ],
+            [
+              -3.7039554,
+              40.4137791
+            ],
+            [
+              -3.7040637,
+              40.4135447
+            ],
+            [
+              -3.7040878,
+              40.4134942
+            ],
+            [
+              -3.7040401,
+              40.4134859
+            ],
+            [
+              -3.7040452,
+              40.4134683
+            ],
+            [
+              -3.704095,
+              40.4134763
+            ],
+            [
+              -3.7041086,
+              40.4134475
+            ],
+            [
+              -3.7040606,
+              40.4134236
+            ],
+            [
+              -3.7041038,
+              40.4133881
+            ],
+            [
+              -3.7040684,
+              40.4133826
+            ],
+            [
+              -3.7040721,
+              40.4133686
+            ],
+            [
+              -3.7041226,
+              40.4133712
+            ],
+            [
+              -3.7041492,
+              40.4133511
+            ],
+            [
+              -3.704147,
+              40.4133505
+            ],
+            [
+              -3.7038542,
+              40.4132766
+            ],
+            [
+              -3.7037268,
+              40.4138106
+            ],
+            [
+              -3.7037808,
+              40.4138222
+            ],
+            [
+              -3.7038379,
+              40.4138345
+            ],
+            [
+              -3.7039141,
+              40.4138564
+            ]
+          ]
+        ]
+      },
+      "id": "way/268051340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/549722981",
+        "amenity": "cinema",
+        "name": "Cine de verano La Bombilla",
+        "phone": "+34 915 29 82 10",
+        "screen": "2",
+        "website": "http://www.fescinal.es/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.7264443,
+              40.4266063
+            ],
+            [
+              -3.7260426,
+              40.4261786
+            ],
+            [
+              -3.7258869,
+              40.4262051
+            ],
+            [
+              -3.7257646,
+              40.4265533
+            ],
+            [
+              -3.725838,
+              40.4267807
+            ],
+            [
+              -3.7259796,
+              40.4269562
+            ],
+            [
+              -3.7261938,
+              40.4270815
+            ],
+            [
+              -3.7262842,
+              40.4270736
+            ],
+            [
+              -3.7263671,
+              40.4270487
+            ],
+            [
+              -3.7264443,
+              40.4266063
+            ]
+          ]
+        ]
+      },
+      "id": "way/549722981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/25931627",
+        "amenity": "cinema"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6361022,
+          40.4631411
+        ]
+      },
+      "id": "node/25931627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/26340398",
+        "amenity": "cinema",
+        "created_by": "JOSM",
+        "name": "Filmoteca Nacional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7021068,
+          40.4122075
+        ]
+      },
+      "id": "node/26340398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/167302955",
+        "amenity": "cinema",
+        "name": "Cine Estudio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6962744,
+          40.4180464
+        ]
+      },
+      "id": "node/167302955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/184049531",
+        "amenity": "cinema",
+        "name": "Cine Capitol",
+        "source": "knowledge",
+        "wikidata": "Q5769473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7065682,
+          40.420455
+        ]
+      },
+      "id": "node/184049531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266472616",
+        "addr:housenumber": "132",
+        "addr:street": "Calle de Santa Engracia",
+        "amenity": "cinema",
+        "name": "Conde Duque-Santa Engracia",
+        "old_name": "Cine Alvi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7018563,
+          40.4426374
+        ]
+      },
+      "id": "node/266472616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/622204565",
+        "amenity": "cinema",
+        "name": "Cines Princesa",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.712782,
+          40.4250507
+        ]
+      },
+      "id": "node/622204565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/622204566",
+        "addr:city": "Madrid",
+        "addr:housenumber": "12",
+        "addr:postcode": "28008",
+        "addr:street": "Calle de Martín de los Heros",
+        "amenity": "cinema",
+        "contact:phone": "+34 91 542 27 02",
+        "contact:website": "http://www.cinesrenoir.com/cartelera/cine/E746B8D4524AAA5B/",
+        "name": "Cines Renoir Plaza de España",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7134271,
+          40.4243781
+        ]
+      },
+      "id": "node/622204566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/623071233",
+        "addr:city": "Madrid",
+        "addr:housenumber": "14",
+        "addr:postcode": "28008",
+        "addr:street": "Calle de Martín de los Heros",
+        "amenity": "cinema",
+        "contact:phone": "+34 91 559 38 36",
+        "contact:website": "http://www.golem.es/golemv9/cine.php?idCine=8",
+        "name": "Cines Golem",
+        "old_name": "Cines Alphaville",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7136183,
+          40.4245922
+        ]
+      },
+      "id": "node/623071233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/658140724",
+        "addr:city": "Madrid",
+        "addr:housenumber": "4",
+        "addr:street": "Plaza de Callao",
+        "amenity": "cinema",
+        "contact:phone": "+34 91 521 99 00",
+        "contact:website": "https://callaocitylights.reservaentradas.com/cine/palaciodelaprensa/",
+        "name": "Cine Palacio de la Prensa",
+        "wikidata": "Q37468558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7058271,
+          40.4204713
+        ]
+      },
+      "id": "node/658140724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/658140726",
+        "addr:street": "Pasaje Martín de los Heros",
+        "amenity": "cinema",
+        "name": "Cines Princesa Salas 10-11",
+        "old_name": "Cines Renoir Princesa",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7134276,
+          40.4249263
+        ]
+      },
+      "id": "node/658140726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1016578387",
+        "amenity": "cinema",
+        "name": "Cine Palafox",
+        "wikidata": "Q37469052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7008998,
+          40.4301024
+        ]
+      },
+      "id": "node/1016578387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1016578413",
+        "addr:housenumber": "28",
+        "addr:street": "Calle de Bravo Murillo",
+        "amenity": "cinema",
+        "name": "Cine Verdi",
+        "old_name": "Cine Cartago",
+        "phone": "+34 914 473 930",
+        "wheelchair": "limited",
+        "wheelchair:description": "Escalón a la entrada de 11 centímetros. Dos de sus 5 salas son accesibles y dispone de aseos adaptados."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.704078,
+          40.4365689
+        ]
+      },
+      "id": "node/1016578413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1278209751",
+        "amenity": "cinema",
+        "name": "Cinesa Las Rosas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6205303,
+          40.4186309
+        ]
+      },
+      "id": "node/1278209751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1339844691",
+        "amenity": "cinema",
+        "level": "1",
+        "name": "Príncipe Pío",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7210854,
+          40.4225834
+        ]
+      },
+      "id": "node/1339844691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1357992373",
+        "addr:street": "Calle de Fuencarral",
+        "amenity": "cinema",
+        "name": "Cine Paz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7032874,
+          40.4306511
+        ]
+      },
+      "id": "node/1357992373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1434655892",
+        "addr:housenumber": "4",
+        "addr:street": "Calle de Alberto Aguilera",
+        "amenity": "cinema",
+        "name": "Conde Duque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7065715,
+          40.4298341
+        ]
+      },
+      "id": "node/1434655892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2277540330",
+        "addr:city": "Madrid",
+        "addr:housenumber": "6",
+        "addr:postcode": "28005",
+        "addr:street": "Calle de las Cigarreras",
+        "amenity": "cinema",
+        "name": "Artistic Metropol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7074611,
+          40.4049046
+        ]
+      },
+      "id": "node/2277540330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2621636924",
+        "addr:housenumber": "67",
+        "amenity": "cinema",
+        "contact:phone": "91 578 31 52",
+        "name": "Cines Conde Duque Goya",
+        "website": "http://www.cinescondeduque.es/web/conde-duque-goya/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6796668,
+          40.4251538
+        ]
+      },
+      "id": "node/2621636924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2668403182",
+        "addr:city": "Madrid",
+        "addr:housenumber": "53",
+        "addr:postcode": "28015",
+        "addr:street": "Calle de Andrés Mellado",
+        "amenity": "cinema",
+        "name": "Sala Berlanga",
+        "old_name": "Cine California",
+        "website": "http://www.salaberlanga.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7144902,
+          40.43594
+        ]
+      },
+      "id": "node/2668403182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3007306701",
+        "addr:housenumber": "3",
+        "addr:postcode": "28013",
+        "addr:street": "Plaza de Callao",
+        "addr:ward": "Sol",
+        "amenity": "cinema",
+        "entrance": "main",
+        "name": "Cines Callao",
+        "wikidata": "Q5769470"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7060654,
+          40.4199478
+        ]
+      },
+      "id": "node/3007306701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4264588226",
+        "addr:city": "Madrid",
+        "addr:housenumber": "414",
+        "addr:postcode": "28017",
+        "addr:street": "Calle de Alcalá",
+        "amenity": "cinema",
+        "name": "Cines Artesiete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6378082,
+          40.4367357
+        ]
+      },
+      "id": "node/4264588226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4525351432",
+        "addr:city": "Madrid",
+        "addr:housenumber": "1",
+        "addr:postcode": "28015",
+        "addr:street": "Calle de Magallanes",
+        "amenity": "cinema",
+        "name": "Pequeño Cine Estudio",
+        "phone": "+34 914 472 920",
+        "website": "http://www.pcineestudio.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7058074,
+          40.4324328
+        ]
+      },
+      "id": "node/4525351432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4554111289",
+        "amenity": "cinema",
+        "name": "Centro Ruso",
+        "name:es": "Centro Ruso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6911335,
+          40.4199239
+        ]
+      },
+      "id": "node/4554111289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4715622690",
+        "addr:housenumber": "132",
+        "addr:postcode": "28003",
+        "addr:street": "Calle de Santa Engracia",
+        "amenity": "cinema",
+        "name": "Cine Conde Duque Santa Engracia",
+        "phone": "914 41 14 61",
+        "website": "http://www.cinescondeduque.es/web/conde-duque-santa-engracia/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7025618,
+          40.4422775
+        ]
+      },
+      "id": "node/4715622690"
+    }
+  ]
+}
